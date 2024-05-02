@@ -1,4 +1,4 @@
-# Week 8 Quzi
+# Week 8 Quiz
 
 ## Part 1: Imaging Technique Inspiration
 
