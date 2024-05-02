@@ -1,34 +1,26 @@
-# hlei9131_9103_06
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Week 8 Quzi
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+## Part 1: Imaging Technique Inspiration
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+### Imaging Technique
+For my project, I chose to present Claude Monet's painting ''Saint Georges majeur au crépuscule'' through code. I wanted to use the imaging technique of **Line Abstraction** in my design, a style that would present the painting through lines and blocks of colour.
 
-1. First Item
-2. Second Item
-3. Third Item
+I was inspired by the following abstractionist paintings.
 
-[Link Text](https://www.google.com)
+![Composition 10 in black and white](asserts\compositie-10-in-zwart-wit-piet-mondriaan-48979-copyright-kroller-muller-museum.jpg)
+![Figures and Dog in Front of the Sun](asserts\figures-dog.jpg)
 
-![An image of a cat](http://placekitten.com/200/300)
+### Contribution to the Project
+These abstract paintings create a strong visual and emotional effect through the balance of simple lines and colours. I wanted to add this feature to the design. For this project, I think line Abstraction would be better at adding interaction and animation features. line Abstraction would bring more clarity and dynamism to the interaction and animation effects.
 
-<!-- ![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg
-Links to an external site.) -->
+## Part 2: Coding Technique Exploration
 
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
+### Coding Technique and Effectiveness
+I'm hoping to go through **p5.js** to complete my design.
+p5.js works very well for my design. I can do the line abstraction of ''Saint Georges majeur au crépuscule'' with p5.js. I plan to abstract the outline of the artwork into lines first, and then do the rendering of the painting with the line and shape code. Then I plan to design the interactive functions and animations by using line and shape code, and by using sound or input code.
 
-> This is a blockquote.
+![screenshot](asserts\screenshot.png)
+[Examples of graphing by points and lines](https://p5js.org/examples/form-points-and-lines.html)
+
+## Reference
+>
